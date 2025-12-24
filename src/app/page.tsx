@@ -86,8 +86,8 @@ export default function HomePage() {
               </div>
               <div className="overflow-hidden rounded-[32px] bg-sky p-4">
                 <Image
-                  src="/images/about-2.svg"
-                  alt="Aktivitas kreatif anak"
+                  src="/images/gallery-real-2.jpg"
+                  alt="Suasana kelas TK PKK Siwi Lestari"
                   width={320}
                   height={260}
                   className="w-full"
@@ -97,8 +97,8 @@ export default function HomePage() {
             <div className="flex items-center">
               <div className="overflow-hidden rounded-[40px] bg-primary/10 p-4">
                 <Image
-                  src="/images/about-3.svg"
-                  alt="Guru dan siswa di kelas"
+                  src="/images/gallery-real-3.jpg"
+                  alt="Aktivitas anak di lingkungan sekolah"
                   width={320}
                   height={420}
                   className="w-full"

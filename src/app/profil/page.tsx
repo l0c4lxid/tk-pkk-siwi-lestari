@@ -46,11 +46,11 @@ export default function ProfilPage() {
           </div>
           <div className="rounded-[36px] bg-white p-6 shadow-lg">
             <Image
-              src="/images/about-1.svg"
-              alt="Ilustrasi sejarah sekolah"
+              src="/images/gallery-real-1.jpg"
+              alt="Kegiatan belajar di TK PKK Siwi Lestari"
               width={520}
               height={420}
-              className="w-full"
+              className="w-full rounded-3xl object-cover"
             />
           </div>
         </div>

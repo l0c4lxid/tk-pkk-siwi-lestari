@@ -80,12 +80,12 @@ export default function HeroKid() {
             className="relative z-10"
           >
             <Image
-              src="/images/hero-child.svg"
-              alt="Ilustrasi anak belajar dengan gembira"
+              src="/images/gallery-real-1.jpg"
+              alt="Foto TK PKK Siwi Lestari"
               width={520}
               height={520}
               sizes="(max-width: 768px) 100vw, 50vw"
-              className="w-full max-w-[260px] sm:max-w-sm md:max-w-md"
+              className="w-full max-w-[260px] rounded-[40px] bg-white p-2 shadow-xl sm:max-w-sm md:max-w-md"
               priority
             />
           </motion.div>
